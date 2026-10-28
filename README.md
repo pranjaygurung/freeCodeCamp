@@ -107,3 +107,5 @@ These organizations have supported our non-profit through grants:
     </picture>
   </a>
 </div>
+
+added new line.
